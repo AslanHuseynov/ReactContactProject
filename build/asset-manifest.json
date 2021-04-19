@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactContactProject/static/css/main.8420dbde.chunk.css",
+    "main.js": "/ReactContactProject/static/js/main.a2f259a5.chunk.js",
+    "main.js.map": "/ReactContactProject/static/js/main.a2f259a5.chunk.js.map",
+    "runtime-main.js": "/ReactContactProject/static/js/runtime-main.80c438c4.js",
+    "runtime-main.js.map": "/ReactContactProject/static/js/runtime-main.80c438c4.js.map",
+    "static/js/2.6a2cb5ff.chunk.js": "/ReactContactProject/static/js/2.6a2cb5ff.chunk.js",
+    "static/js/2.6a2cb5ff.chunk.js.map": "/ReactContactProject/static/js/2.6a2cb5ff.chunk.js.map",
+    "index.html": "/ReactContactProject/index.html",
+    "precache-manifest.155796c13505b5512afc52daabc6aecb.js": "/ReactContactProject/precache-manifest.155796c13505b5512afc52daabc6aecb.js",
+    "service-worker.js": "/ReactContactProject/service-worker.js",
+    "static/css/main.8420dbde.chunk.css.map": "/ReactContactProject/static/css/main.8420dbde.chunk.css.map",
+    "static/js/2.6a2cb5ff.chunk.js.LICENSE.txt": "/ReactContactProject/static/js/2.6a2cb5ff.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80c438c4.js",
+    "static/js/2.6a2cb5ff.chunk.js",
+    "static/css/main.8420dbde.chunk.css",
+    "static/js/main.a2f259a5.chunk.js"
+  ]
+}

@@ -1,0 +1,2 @@
+.card{width:350px}p{cursor:pointer}p:hover{-webkit-animation:changecolor .5s;animation:changecolor .5s;-webkit-animation-fill-mode:forwards;animation-fill-mode:forwards}@-webkit-keyframes changecolor{0%{color:#000}to{color:#0275d8}}@keyframes changecolor{0%{color:#000}to{color:#0275d8}}.someclass{background-color:red}h4{cursor:pointer}.filter-form{margin-bottom:40px}#my-style{width:150px;height:200px;background:#f2f2f2}
+/*# sourceMappingURL=main.8420dbde.chunk.css.map */
